@@ -1,7 +1,7 @@
 # Jessica_Baggett_Module_3
 Module 3 work/progress
 
-Side note: this was incredibly frustating to do. I was not given the tools I needed in class to even remotely do well or manage to confidently do this assignment. I have no confidence in this project, but I've given it my very best. I have devoted over 40 hours to this assignment alone, and it's now detrimental to my health. 
+Side note: this was incredibly frustating to do. I have no confidence in this project, but I've given it my very best. I have devoted over 40 hours to this assignment alone, and it's now detrimental to my health. 
 
 PyPoll walk through:
   I have laid out the logic of the code I'm trying to achieve. There are no errors that it's showing me at this time. Comments show where my logic and implemented code is going. 
