@@ -1,10 +1,5 @@
 # Jessica_Baggett_Module_3
 Module 3 work/progress
-
-Side note: this was incredibly frustating to do. I have no confidence in this project, but I've given it my very best. I have devoted over 40 hours to this assignment alone, and it's now detrimental to my health. 
-
-PyPoll walk through:
-  I have laid out the logic of the code I'm trying to achieve. There are no errors that it's showing me at this time. Comments show where my logic and implemented code is going. 
   
 References:
 
@@ -20,6 +15,14 @@ Tutoring session for Module 3 challenge - going over PyBank and basic logic over
 
 L. Hou, Personal Communication, October 4, 2023. 
 
-Peer collaboration - going over approach and logic on PyBank. 
+Peer collaboration - going over approach and logic on PyBank and PyPoll. 
 
 R. Joseph, Personal Communication, September 30, 2023. 
+
+Python: Find the key of the maximum, minimum value in a dictionary. 2022, August 19. https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-80.php
+
+How do I calculate a ratio for values within a dictionary? https://stackoverflow.com/questions/63490575/how-do-i-calculate-a-ratio-for-values-within-a-dictionary.
+
+Getting key with maximum value in dictionary? https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary.
+
+
